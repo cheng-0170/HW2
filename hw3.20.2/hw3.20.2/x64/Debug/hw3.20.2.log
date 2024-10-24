@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+C:\Users\USER\Desktop\HW2\hw3.20.2\hw3.20.2\main.c(25,15): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  hw3.20.2.vcxproj -> C:\Users\USER\Desktop\HW2\hw3.20.2\hw3.20.2\hw3.20.2.exe
